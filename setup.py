@@ -37,7 +37,7 @@ setup(name='multimodal-keras-wrapper',
                         'cython',
                         'keras_applications',
                         'keras_preprocessing',
-                        'sklearn',
+                        'scikit-learn',
                         'tables'
                         ],
       extras_require={
