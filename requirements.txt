@@ -10,5 +10,5 @@ future
 cython
 keras_applications
 keras_preprocessing
-sklearn
+scikit-learn
 tables
